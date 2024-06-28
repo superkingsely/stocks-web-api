@@ -11,4 +11,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.6" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.6" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Dtos\Comment\" />
+  </ItemGroup>
 </Project>
