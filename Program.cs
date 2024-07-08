@@ -27,6 +27,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.MapControllers();
+// vscode =dotnet watch run
 app.Run();
 
 

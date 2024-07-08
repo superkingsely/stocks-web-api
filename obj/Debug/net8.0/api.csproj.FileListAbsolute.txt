@@ -139,3 +139,4 @@ C:\Users\chijioke\Desktop\vscode.net\api\bin\Debug\net8.0\Microsoft.AspNetCore.J
 C:\Users\chijioke\Desktop\vscode.net\api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\chijioke\Desktop\vscode.net\api\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\chijioke\Desktop\vscode.net\api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\chijioke\Desktop\vscode.net\api\obj\Debug\net8.0\api.sourcelink.json
